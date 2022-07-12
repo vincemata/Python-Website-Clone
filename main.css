@@ -1,0 +1,159 @@
+h1{
+  color:#ffd242;
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 60px;
+}
+
+main{
+  background-color: #244e71;
+  min-height: 600px;
+
+}
+
+
+  .main-content{
+    display: inline-block;
+    vertical-align: top;
+    width: 590px;
+    min-height: 300px;
+  }
+
+
+    .main-content p{
+      color:white;
+      margin-left: 100px;
+      margin-top: 20px;
+      margin-right: 60px;
+    }
+
+.python-boxes{
+  position: absolute;
+  top:190px;
+  right:400px;
+}
+
+.news-section{
+  background-color: green;
+  width: 1200px;
+  min-height: 300px;
+}
+
+  .news-content{
+    display: inline-block;
+    background-color: white;
+    width: 600px;
+    min-height: 300px;
+  }
+
+
+  .content-news{
+    margin-left: 50px;
+    margin-right:330px;
+  }
+
+    .content-title p{
+      display: inline-block;
+      margin-top: 20px;
+    }
+
+    .content-news,.content-news-tech{
+      font-size: 20px;
+      font-weight: 100;
+
+    }
+
+
+
+      .more{
+        color:gray;
+        text-decoration: none;
+      }
+
+      .content-details{
+        margin-left: 50px;
+
+      }
+
+      .content-news-tech{
+        margin-left: 50px;
+        margin-right:285px;
+      }
+
+
+  
+      .date{
+        display: inline-block;
+        margin-right: 20px;
+
+      }
+
+      .details{
+        text-decoration:none;
+        color:#3776ab;
+      }
+
+
+
+.python-tech-content{
+    display: inline-block;
+    vertical-align: top;
+    background-color: white;
+    width: 596px;
+    min-height: 300px;
+}
+
+
+  .content-title-tech p{
+    margin-top: 20px;
+  }
+  
+  .content-title-tech p,.tech,ul{
+    display: inline-block;
+
+  }
+
+    .tech{
+      font-weight: 600;
+
+    }
+
+    .details-tech{
+      font-size: 10px;
+      background-color: #e7e9ea;
+      text-decoration: none;
+      color:gray;
+      padding:5px;
+    }
+
+    ul{
+      vertical-align: top;
+      list-style-type:none;
+    }
+
+
+
+
+.separator{
+  color:transparent;
+  border-bottom: 6px solid #74a8d2;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
+  .separator2,.separator3{
+    border-top: 1px dotted #74a8d2;
+    margin-bottom: 10px;
+    margin-right: 50px;
+
+  }
+
+  .separator2{
+    margin-left: 50px;
+    margin-top: 5px;
+  }
+
+  .separator3{
+    margin-top: 10px;
+
+  }

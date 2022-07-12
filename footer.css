@@ -1,0 +1,47 @@
+footer{
+  background-color:#254f72;
+  min-height: 150px;
+  text-align: center;
+}
+
+  .support-links{
+    margin-top: 3%;
+    height: 50px;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+    .support-links ul li{
+      font-size: 20px;
+      margin-right: 20px;
+      display:inline-block;
+      vertical-align: top;
+    }
+
+    .support-links a{
+      color:#4995d2;
+      text-decoration: none;
+    }
+
+  .copyright{
+    font-size: 11px;
+    margin-bottom: 20px;
+    text-decoration: none;
+  }
+    .copyright p,.copyright a{
+      color: #75a8d3;
+    }
+
+    .copyright p{
+      display:inline-block;
+    }
+
+
+    .copyright a{
+      border-bottom: 1px dotted #4f90c6;
+    }
+
+      .bullet{
+        color: green;
+      }
+

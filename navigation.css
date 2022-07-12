@@ -1,0 +1,38 @@
+.container{
+  background-color: #244e71;
+  height:65px;
+  padding-left: 50px;
+  padding-top: 10px;
+
+}
+  .nav-menu{
+    background-color: #356fa0;
+    border-radius: 5px;
+    height: 60px;
+    width:1110px;
+    box-shadow: 5px 10px 20px rgb(32, 32, 32);
+  }
+  .nav-menu p,.nav-menu .about,.nav-menu a{
+    color:white;
+    font-size: 20px;
+    font-weight: 300;
+    display: inline-block;
+    text-decoration: none;
+    vertical-align: -100%;
+  }
+
+  .nav-menu p,.nav-menu a{
+    padding: 18px;
+    border-right: 1px solid rgb(87, 86, 86);
+
+  }
+
+    .nav-menu .about{
+      margin-left: 12%;
+      background-color: #285881;
+      padding-top: 16px;
+      padding-bottom: 16px;
+      padding-left: 25px;
+      padding-right: 25px;
+      border-right: none;
+    }

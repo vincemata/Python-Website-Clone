@@ -1,0 +1,83 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	}
+  
+  /* *{
+    outline:1px solid red;
+  } */
+
+  body{
+    font-family: 'Times New Roman', Times, serif;
+    width:1200px;
+    background-color: black;
+    margin-left: 20%;
+  }
+
+  header{
+    background-color: #244e71;
+    min-height:120px;
+  }
+
+  button{
+    cursor:pointer;
+  }
+ 
+    .logo{
+      position: relative;
+      top:20px;
+      left:50px;
+    }
+
+    .donate-btn{
+      position: relative;
+      bottom:15px;
+      left:440px;
+      color:gray;
+      border: none;
+      background-color: #ffd95b;
+      border-radius: 2px;
+      padding:5px;
+    }
+
+    .go-btn{
+      position: relative;
+      right:25px;
+      padding: 10px 10px;
+      border-radius: 5px;
+      color:white;
+      background-color: #326b9b;
+    }
+
+    .search-bar{
+      position: relative;
+      right:30px;
+      padding-top:8px;
+      padding-bottom:8px;
+    }
+    .locate{
+      position: absolute;
+      top:30px;
+      left:1180px;
+      background-color: #1e2832;
+      border-radius: 5px;
+      padding:16px 50px 15px 50px;
+    }
+
+    .socialize button{
+      position: absolute;
+      top:30px;
+      left:1430px;
+      color:rgb(183, 178, 178);
+      background-color: #1e2832;
+      border-radius: 2px;
+      border-color: black;
+      border-left: 2px solid black;
+      border-right: 2px solid black;
+      padding:26px 26px 25px 25px;
+    }
+
+
+    
+
